@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ermelinda7
+- 👋 Hi, I’m @ermelinda
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning 9th grade
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me imstagram
+- 📫 How to reach me Instagram
 - 😄 Pronouns: she her
-- ⚡ Fun fact: i can dance
+- ⚡ Fun fact: I can dance
 
 <!---
 ermelinda7/ermelinda7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
